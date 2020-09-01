@@ -2,7 +2,7 @@
   "name": "check_prime_module",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "checkPrime.js",
   "scripts": {
     "test": "jest"
   },
